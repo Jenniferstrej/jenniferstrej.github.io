@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <generator uri="http://jekyllrb.com" version="3.4.2">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-03-12T19:12:16+00:00</updated>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2017-03-12T19:23:06+00:00</updated>
   <id>http://localhost:4000//</id>
 
   
-    <title type="html">Jennifer’s Blog</title>
+    <title type="html">Jennifer Strejevitch’s blog</title>
   
 
   
-    <subtitle>Any tech interesting things I feel like writing about</subtitle>
+    <subtitle>Minimal, responsive Jekyll theme for hackers.</subtitle>
   
 
+  
+    <author>
+        <name>Jennifer Strejevitch</name>
+      
+      
+    </author>
   
 
   
@@ -24,13 +30,13 @@
       
       <title type="html">Python For Beginners</title>
       
-      <link href="http://localhost:4000/2017/03/02/python-for-beginners.html" rel="alternate" type="text/html" title="Python For Beginners" />
+      <link href="http://localhost:4000/2017/03/02/python-for-beginners/" rel="alternate" type="text/html" title="Python For Beginners" />
       <published>2017-03-02T00:00:00+00:00</published>
       <updated>2017-03-02T00:00:00+00:00</updated>
       <id>http://localhost:4000/2017/03/02/python-for-beginners</id>
-      <content type="html" xml:base="http://localhost:4000/2017/03/02/python-for-beginners.html">&lt;p&gt;Last month I coached a class of Python for beginners for Women Who Code. The people varied from complete beginners, to people who have had a go with other languages.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/2017/03/02/python-for-beginners/">&lt;p&gt;Last month I coached a class of Python for beginners for Women Who Code. The people varied from complete beginners, to people who have had a go with other languages.&lt;/p&gt;
 
-&lt;p&gt;Some of the things I noticed was that you cannot assume people will run commands on the command line so naturally, and of course, I haven’t always known that either! So I prepared some material inspired on various sources and included a little command line overview.&lt;/p&gt;
+&lt;p&gt;Some of the things I noticed was that you cannot assume people will run commands on the command line so naturally, and of course, I haven’t always known that either! So I prepared some material inspired by various sources and included a little command line overview.&lt;/p&gt;
 
 &lt;iframe src=&quot;//slides.com/jenniferstrejevitch/p/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
@@ -41,13 +47,61 @@
       
 
       
-
+        <author>
+            <name>Jennifer Strejevitch</name>
+          
+          
+        </author>
       
 
       
 
       
-        <summary type="html">Last month I coached a class of Python for beginners for Women Who Code. The people varied from complete beginners, to people who have had a go with other languages.</summary>
+
+      
+        <summary type="html">Last month I coached a class of Python for beginners for Women Who Code. The people varied from complete beginners, to people who have had a go with other languages. Some of the things I noticed was that you cannot assume people will run commands on the command line so naturally, and of course, I haven’t always known that either! So I prepared some material inspired by various sources and included a little command line overview.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Unit Testing With Python</title>
+      
+      <link href="http://localhost:4000/2017/02/02/unit-testing-with-python/" rel="alternate" type="text/html" title="Unit Testing With Python" />
+      <published>2017-02-02T00:00:00+00:00</published>
+      <updated>2017-02-02T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/02/02/unit-testing-with-python</id>
+      <content type="html" xml:base="http://localhost:4000/2017/02/02/unit-testing-with-python/">&lt;p&gt;This is a presentation that I prepared about my findings on unit testing with Python.
+It was an introduction to mostly non Python developers but everyone was technical.
+I can say that is one of the first technical presentations I’ve given since Uni and it has helped me gain more confidence to do it again :).&lt;/p&gt;
+
+&lt;iframe src=&quot;//slides.com/jenniferstrejevitch/deck/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Jennifer Strejevitch</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+
+      
+        <summary type="html">This is a presentation that I prepared about my findings on unit testing with Python. It was an introduction to mostly non Python developers but everyone was technical. I can say that is one of the first technical presentations I’ve given since Uni and it has helped me gain more confidence to do it again :).</summary>
       
 
       
