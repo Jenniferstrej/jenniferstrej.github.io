@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="3.4.1">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2017-03-12T19:12:16+00:00</updated>
+  <id>http://localhost:4000//</id>
+
+  
+    <title type="html">Jennifer’s Blog</title>
+  
+
+  
+    <subtitle>Any tech interesting things I feel like writing about</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">Python For Beginners</title>
+      
+      <link href="http://localhost:4000/2017/03/02/python-for-beginners.html" rel="alternate" type="text/html" title="Python For Beginners" />
+      <published>2017-03-02T00:00:00+00:00</published>
+      <updated>2017-03-02T00:00:00+00:00</updated>
+      <id>http://localhost:4000/2017/03/02/python-for-beginners</id>
+      <content type="html" xml:base="http://localhost:4000/2017/03/02/python-for-beginners.html">&lt;p&gt;Last month I coached a class of Python for beginners for Women Who Code. The people varied from complete beginners, to people who have had a go with other languages.&lt;/p&gt;
+
+&lt;p&gt;Some of the things I noticed was that you cannot assume people will run commands on the command line so naturally, and of course, I haven’t always known that either! So I prepared some material inspired on various sources and included a little command line overview.&lt;/p&gt;
+
+&lt;iframe src=&quot;//slides.com/jenniferstrejevitch/p/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">Last month I coached a class of Python for beginners for Women Who Code. The people varied from complete beginners, to people who have had a go with other languages.</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
